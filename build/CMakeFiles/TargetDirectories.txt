@@ -1,0 +1,6 @@
+/home/gui1612/git/travel-agency/build/CMakeFiles/documentacao.dir
+/home/gui1612/git/travel-agency/build/CMakeFiles/edit_cache.dir
+/home/gui1612/git/travel-agency/build/CMakeFiles/rebuild_cache.dir
+/home/gui1612/git/travel-agency/build/codigo/CMakeFiles/travel.dir
+/home/gui1612/git/travel-agency/build/codigo/CMakeFiles/edit_cache.dir
+/home/gui1612/git/travel-agency/build/codigo/CMakeFiles/rebuild_cache.dir

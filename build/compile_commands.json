@@ -1,0 +1,27 @@
+[
+{
+  "directory": "/home/gui1612/git/travel-agency/build",
+  "command": "/usr/bin/c++ -I/home/gui1612/git/travel-agency/codigo/include  -O3 -g -std=gnu++20 -o codigo/CMakeFiles/travel.dir/main.cpp.o -c /home/gui1612/git/travel-agency/codigo/main.cpp",
+  "file": "/home/gui1612/git/travel-agency/codigo/main.cpp"
+},
+{
+  "directory": "/home/gui1612/git/travel-agency/build",
+  "command": "/usr/bin/c++ -I/home/gui1612/git/travel-agency/codigo/include  -O3 -g -std=gnu++20 -o codigo/CMakeFiles/travel.dir/src/entities/graph.cpp.o -c /home/gui1612/git/travel-agency/codigo/src/entities/graph.cpp",
+  "file": "/home/gui1612/git/travel-agency/codigo/src/entities/graph.cpp"
+},
+{
+  "directory": "/home/gui1612/git/travel-agency/build",
+  "command": "/usr/bin/c++ -I/home/gui1612/git/travel-agency/codigo/include  -O3 -g -std=gnu++20 -o codigo/CMakeFiles/travel.dir/src/dataset.cpp.o -c /home/gui1612/git/travel-agency/codigo/src/dataset.cpp",
+  "file": "/home/gui1612/git/travel-agency/codigo/src/dataset.cpp"
+},
+{
+  "directory": "/home/gui1612/git/travel-agency/build",
+  "command": "/usr/bin/c++ -I/home/gui1612/git/travel-agency/codigo/include  -O3 -g -std=gnu++20 -o codigo/CMakeFiles/travel.dir/src/ui.cpp.o -c /home/gui1612/git/travel-agency/codigo/src/ui.cpp",
+  "file": "/home/gui1612/git/travel-agency/codigo/src/ui.cpp"
+},
+{
+  "directory": "/home/gui1612/git/travel-agency/build",
+  "command": "/usr/bin/c++ -I/home/gui1612/git/travel-agency/codigo/include  -O3 -g -std=gnu++20 -o codigo/CMakeFiles/travel.dir/src/interact.cpp.o -c /home/gui1612/git/travel-agency/codigo/src/interact.cpp",
+  "file": "/home/gui1612/git/travel-agency/codigo/src/interact.cpp"
+}
+]

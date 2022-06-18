@@ -1,0 +1,17 @@
+# ninja log v5
+2515	2597	1654473061535867898	codigo/travel	1ae77169aac25119
+0	2515	1654473061452534002	codigo/CMakeFiles/travel.dir/src/ui.cpp.o	371adfedff3f2112
+1	749	1654473059689188766	codigo/CMakeFiles/travel.dir/main.cpp.o	b70ff4ea8c0d0278
+0	952	1654473059892523472	codigo/CMakeFiles/travel.dir/src/dataset.cpp.o	d7d2375acbcafe09
+0	58	0	/home/gui1612/git/travel-agency/build/CMakeFiles/documentacao	3c6033daf66ae5a
+1	1282	1654473060222525699	codigo/CMakeFiles/travel.dir/src/interact.cpp.o	1d8af6b231417127
+1	1690	1654473060629195111	codigo/CMakeFiles/travel.dir/src/entities/graph.cpp.o	dd1976f4380921c9
+0	58	0	CMakeFiles/documentacao	3c6033daf66ae5a
+0	40	1654473700490363073	build.ninja	a338e60f8129ccd8
+0	607	1654473719050497504	codigo/CMakeFiles/travel.dir/main.cpp.o	b70ff4ea8c0d0278
+0	2288	1654473720730509670	codigo/CMakeFiles/travel.dir/src/ui.cpp.o	371adfedff3f2112
+2288	2381	1654473720823843679	codigo/travel	1ae77169aac25119
+1	58	0	CMakeFiles/documentacao	3c6033daf66ae5a
+1	58	0	/home/gui1612/git/travel-agency/build/CMakeFiles/documentacao	3c6033daf66ae5a
+1	81	0	CMakeFiles/documentacao	3c6033daf66ae5a
+1	81	0	/home/gui1612/git/travel-agency/build/CMakeFiles/documentacao	3c6033daf66ae5a
